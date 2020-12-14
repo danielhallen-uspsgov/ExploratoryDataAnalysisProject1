@@ -56,3 +56,6 @@ All dates other then 1/2/2007 and 2/2/2007 will be removed.
 It will then convert what ever data is needed for the spficic chart.
 
 Each script will make and save the required chart.
+
+# Note
+I tried to match the colors from the examples.  But I am Color blind.  So I did the best I could.
