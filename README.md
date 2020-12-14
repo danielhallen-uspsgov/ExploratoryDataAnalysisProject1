@@ -42,10 +42,17 @@ Plot 4
  
 # To run these scripts:
 Load and run each file Plot1.R , Plot2.R, Plot3.R, and Plot4.R
+
 Each script will check if the directory C:\coursera\ExploratoryDataAnalysis\Week1 exists and will create it if does not.
-They will then check for the file exdata_data_household_power_consumption.zip and download if necessary
+
+They will then check for the file exdata_data_household_power_consumption.zip and download if necessary.
+
 They will then unzip household_power_consumption.txt from the file.
-The file household_power_consumption.txt will be imported as a table.  
+
+The file household_power_consumption.txt will be imported as a table. 
+
 All dates other then 1/2/2007 and 2/2/2007 will be removed.
+
 It will then convert what ever data is needed for the spficic chart.
+
 Each script will make and save the required chart.
